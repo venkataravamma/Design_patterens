@@ -1,4 +1,4 @@
-package com.patteren.creational.factory;
+package com.pattern.creational.factory;
 
 public class TestFactory {
 	public static void main(String[] args) {

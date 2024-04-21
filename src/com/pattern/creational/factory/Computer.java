@@ -1,4 +1,4 @@
-package com.patteren.creational.factory;
+package com.pattern.creational.factory;
 
 public abstract class Computer {
 

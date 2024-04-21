@@ -1,11 +1,12 @@
-package com.patteren.creational.factory;
+package com.pattern.creational.factory;
 
-public class Server extends Computer {
+public class PC extends Computer{
+
 	private String ram;
 	private String hdd;
 	private String cpu;
 
-	 public Server(String ram,String hdd,String cpu) {
+	 public PC(String ram,String hdd,String cpu) {
 		 this.ram=ram;
 		 this.hdd=hdd;
 		 this.cpu=cpu;
